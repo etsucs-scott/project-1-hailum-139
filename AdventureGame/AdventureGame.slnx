@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AdventureGame.Console/AdventureGame.Console.csproj" />
+  <Project Path="AdventureGame.Core/AdventureGame.Core.csproj" Id="3d2b4e81-cf64-49a1-9075-c5206987fd60" />
+</Solution>
