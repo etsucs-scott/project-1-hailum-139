@@ -3,7 +3,7 @@
 class Program
 {
     static void Main(string[] args)
-    { 
+    { //you need to run all these methods in these specific order to make sure it runs properly
         Maze maze = new Maze();
 
         maze.StartMaze();
